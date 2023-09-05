@@ -1,0 +1,58 @@
+import 'package:flutter/material.dart';
+import 'museum.dart';
+import 'museum_model.dart';
+
+void main() {
+  runApp(const MyMuseum());
+}
+
+class MyMuseum extends StatelessWidget {
+  const MyMuseum({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    const title = "My Museum List";
+    // List<Museum> museums = getMuseums();
+
+    return MaterialApp(
+      title: title,
+      home: Scaffold(
+        appBar: AppBar(
+          title: const Text(title),
+        ),
+        body: ListView(
+          children: [
+            Padding(
+              padding: EdgeInsets.all(8.0),
+              child: Container(
+                height: 200,
+                color: Colors.blue[200],
+              ),
+            ),
+            Padding(
+              padding: EdgeInsets.all(8.0),
+              child: Container(
+                height: 200,
+                color: Colors.blue[200],
+              ),
+            ),
+            Padding(
+              padding: EdgeInsets.all(8.0),
+              child: Container(
+                height: 200,
+                color: Colors.blue[200],
+              ),
+            ),
+            Padding(
+              padding: EdgeInsets.all(8.0),
+              child: Container(
+                height: 200,
+                color: Colors.blue[200],
+              ),
+            )
+          ],
+        ),
+      ),
+    );
+  }
+}

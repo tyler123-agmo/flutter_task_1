@@ -1,0 +1,81 @@
+[
+    {
+        "id":1,
+        "name":"The National Museum of Malaysia",
+        "description": "The museum is situated in close proximity to the Perdana Lake Gardens and it provides an overview of Malaysian history and culture.",
+        "photoList": 
+        [   "https://picsum.photos/200/300",
+            "https://picsum.photos/200/300"
+        ],
+        "location": "Jalan Damansara, in Kuala Lumpur, Malaysia",
+        "price": "RM10"
+        
+    },
+    {
+        "id":2,
+        "name":"The History and Ethnography Museum",
+        "description": "The historical section of the museum displays the history of Malacca from its establishment in 1400 until 1957, the year Malaya gained independence.",
+        "photoList": 
+        [   "https://picsum.photos/200/300",
+            "https://picsum.photos/200/300"
+        ],
+        "location": "Malacca City, Malacca, Malaysia",
+        "price": "RM20"
+        
+    },
+    {
+        "id":3,
+        "name":"Kota Tinggi Museum",
+        "description": "The museum was constructed in 1997 and opened in 2002.",
+        "photoList": 
+        [   "https://picsum.photos/200/300",
+            "https://picsum.photos/200/300"
+        ],
+        "location": "Kota Tinggi District, Johor, Malaysia",
+        "price": "RM20"
+    },
+    {
+        "id":4,
+        "name":"Kota Johor Lama Museum",
+        "description": "The site where the museum stands today was first excavated in 1960 by the British.",
+        "photoList": 
+        [   "https://picsum.photos/200/300",
+            "https://picsum.photos/200/300"
+        ],
+        "location": "Johor Lama, Kota Tinggi District, Johor, Malaysia",
+        "price": "RM10"
+    },
+    {
+        "id":5,
+        "name":"Pineapple Museum",
+        "description": "The was inaugurated by Johor Chief Minister Abdul Ghani Othman on 21 May 2002.",
+        "photoList": 
+        [   "https://picsum.photos/200/300",
+            "https://picsum.photos/200/300"
+        ],
+        "location": "Pekan Nanas, Pontian District, Johor, Malaysia",
+        "price": "RM30"
+    },
+    {
+        "id":6,
+        "name":"Army Museum Port Dickson",
+        "description": "Established solely to feature the military influences and achievements of the country.",
+        "photoList": 
+        [   "https://picsum.photos/200/300",
+            "https://picsum.photos/200/300"
+        ],
+        "location": "Pekan Nanas, Pontian District, Johor, Malaysia",
+        "price": "RM15"
+    },    
+    {
+        "id":7,
+        "name":"Agong's Gallery",
+        "description": "The official residence of the Malaysian King and showcases the history and heritage of the Malaysian monarchy.",
+        "photoList": 
+        [   
+        ],
+        "location": "Istana Negara, Malaysia",
+        "price": "RM25"
+    }   
+
+]
